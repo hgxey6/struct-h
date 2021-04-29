@@ -1,4 +1,4 @@
-##Algorithms (Java)
+## Algorithms (Java)
 
 *[Алгоритм](https://en.wikipedia.org/wiki/Algorithm) — набор инструкций для выполнения некоторой задачи.*
 

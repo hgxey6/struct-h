@@ -1,4 +1,4 @@
-##Binary search
+## Binary search
 
 [Двоичный поиск](https://en.wikipedia.org/wiki/Binary_search_algorithm) — классический алгоритм поиска элемента в отсортированном массиве, использующий дробление массива на половины.
 
